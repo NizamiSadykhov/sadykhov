@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gif клиент</string>
+    <string name="latest_tab">Последние</string>
+    <string name="hot_tab">Горячие</string>
+    <string name="top_tab">Лучшие</string>
+    <string name="loading_error">Ошибка во время загрузки</string>
+    <string name="no_posts_error">Посты кончились :(</string>
+    <array name="tab_titles">
+        <item>Последние</item>
+        <item>Горячие</item>
+        <item>Лучшие</item>
+    </array>
+</resources>
